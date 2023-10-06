@@ -1,4 +1,4 @@
-- Hi, I’m @manjugovindarajan 👋
+- Hi, this is Manju! 👋
 - Based out of Austin, Texas USA
 - I’m interested in Data Analytics, Data Visualization, Machine Learning 👀
 - emailmanju@gmail.com  📫
